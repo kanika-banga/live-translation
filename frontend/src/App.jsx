@@ -11,7 +11,7 @@ const LANGUAGES = {
 }
 
 const LANG_KEYS = Object.keys(LANGUAGES)
-const API_BASE  = 'http://localhost:8000'
+const API_BASE  = 'https://live-translation-n5cf.onrender.com/'
 const MAX_SUBS  = 6
 
 // ─── App ──────────────────────────────────────────────────────────────────────
